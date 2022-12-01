@@ -1,0 +1,35 @@
+#hero {
+    position: relative;
+    text-align: center;
+    justify-content: space-evenly;
+  }
+  
+  #hero h2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    justify-content: space-evenly;
+  }
+/* font size and text in body tag here */
+body {
+    font-size: large;
+    font-weight: 500;
+
+}
+/* center nav bar */
+  nav ul {
+        display: inline-block;
+        list-style-type: none;
+        margin: 0 auto;
+        padding: 0;
+        width: 740px;
+        background-color: #f1f1f1;
+        text-align: center;
+        
+    
+
+}
+
+
